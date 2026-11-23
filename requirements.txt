@@ -1,0 +1,6 @@
+confluent-kafka
+redis
+fastapi
+uvicorn[standard]
+orjson
+pymavlink
