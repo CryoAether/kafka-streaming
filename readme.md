@@ -1,6 +1,6 @@
 # Fleet Telemetry Streaming Pipeline
 
-Event-driven telemetry pipeline built with Python, Apache Kafka, Redis, FastAPI, and React to ingest, process, and visualize real-time UAV flight data at 15,000+ events/sec.
+Event-driven telemetry pipeline built with Python, Apache Kafka, Redis, FastAPI, and React to ingest, process, and visualize real-time UAV flight data at 10,000+ events/sec.
 
 <img src="documentation/images/image.png" alt="Fleet telemetry dashboard showing simulated drones" width="850" />
 
